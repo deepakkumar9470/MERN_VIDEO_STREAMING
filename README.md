@@ -28,23 +28,23 @@ Features
 Screenshots
 
 1.User Login Interface
-<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_1.png" alt="login-signup page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_1.png" alt="login-signup page" width="600">
 
 2.Profile Setup
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_5.png" alt="profile onboarding page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_5.png" alt="profile onboarding page" width="600">
 
 3.Main Control Panel
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_2.png" alt="dashboard page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_2.png" alt="dashboard page" width="600">
 
 4.Users and Friends One to One Chatting
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_4.png" alt="users chat page"  width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_4.png" alt="users chat page"  width="600">
 
 5.Customization and Settings
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_6.png" alt="settings page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_6.png" alt="settings page" width="600">
 
 6.Requests and Notifications
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_3.png" alt="notifications page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_3.png" alt="notifications page" width="600">
 
 7. Chats with Text, Emojis, Images & Videos
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_7.png" alt="chats page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_7.png" alt="chats page" width="600">
 
