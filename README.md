@@ -28,7 +28,7 @@ Features
 Screenshots
 
 1.User Login Interface
-  <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_1.png" alt="login-signup page" width="800">
+<img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_1.png" alt="login-signup page" width="800">
 
 2.Profile Setup
   <img src="https://github.com/deepakkumar9470/MERN_VIDEO_STREAMING/blob/main/frontend/public/duo_5.png" alt="profile onboarding page" width="800">
